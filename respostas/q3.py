@@ -1,1 +1,4 @@
-#Crie um programa que exiba as seguintes informações, cada uma em uma linha:
+print("Renato Rocha Rodrigues")
+print("30")#Crie
+print("Teresina")
+print("Piauí")
